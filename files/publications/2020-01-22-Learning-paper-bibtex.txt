@@ -1,0 +1,12 @@
+@ARTICLE{8966467,
+author={J. h. {Park} and J. {Kim} and Y. {Jang} and I. {Jang} and H. J. {Kim}},
+journal={IEEE Robotics and Automation Letters},
+title={Learning Transformable and Plannable se(3) Features for Scene Imitation of a Mobile Service Robot},
+year={2020},
+volume={},
+number={},
+pages={1-1},
+keywords={Deep Learning in Robotics and Automation;Visual Learning;Learning from Demonstration;Mobile Manipulation},
+doi={10.1109/LRA.2020.2968032},
+ISSN={2377-3774},
+month={},}
