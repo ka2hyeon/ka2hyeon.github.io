@@ -1,0 +1,10 @@
+@article{lim2017bayesian,
+  title={Bayesian Online Learning for Information-based Multi-Agent Exploration with Unknown Radio Signal Distribution},
+  author={Lim, Jinhong and Park, J Hyeon and Kim, H Jin},
+  journal={IFAC-PapersOnLine},
+  volume={50},
+  number={1},
+  pages={2621--2626},
+  year={2017},
+  publisher={Elsevier}
+}
